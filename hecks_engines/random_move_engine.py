@@ -1,7 +1,6 @@
 """
 This engine plays random moves. The only legality check being that they weren't played before.
 """
-import itertools
 import random
 import logging
 
